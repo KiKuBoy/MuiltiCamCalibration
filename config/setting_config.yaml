@@ -1,0 +1,8 @@
+outfile_path: "/home/iimt/code_data/SensorCalibration/2DLidarCamCalibration/result/calibrate_result.yaml"
+chess_width: 11
+chess_height: 8
+chess_grid_size: 0.02
+cam1_image_dir: "/home/iimt/code_data/SensorCalibration/MuiltiCameraCalibration/data/camera_1"
+cam2_image_dir: "/home/iimt/code_data/SensorCalibration/MuiltiCameraCalibration/data/camera_2"
+visual_chess_dir: "/home/iimt/code_data/SensorCalibration/MuiltiCameraCalibration/data/chess_visual"
+#文件为1.jpg  1.pcd等类似文件名(激光雷达和图像的名字一样)
